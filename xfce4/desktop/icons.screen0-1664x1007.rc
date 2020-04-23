@@ -1,0 +1,51 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/home/cheeky/Desktop/steam.desktop]
+row=5
+col=0
+
+[/home/cheeky/Desktop/Terraria.desktop]
+row=7
+col=0
+
+[/home/cheeky/Desktop/Counter-Strike Source.desktop]
+row=3
+col=1
+
+[/home/cheeky/Desktop/Space Engineers.desktop]
+row=4
+col=1
+
+[/home/cheeky/Desktop/FTL Faster Than Light.desktop]
+row=6
+col=0
+
+[/home/cheeky/Desktop/Garry's Mod.desktop]
+row=1
+col=1
+
+[eb7aa133-702e-4425-8cb1-4e1a504e0343]
+row=0
+col=1
+
+[f89d8229-9288-450c-a77f-99f4bbf547c8]
+row=3
+col=0
+
+[c0079a06-73a2-4afa-b6c6-14435fe2bc1b]
+row=2
+col=0
+
+[Trash]
+row=0
+col=0
+
+[/]
+row=1
+col=0
+
+[/home/cheeky]
+row=4
+col=0
+
